@@ -1,3 +1,4 @@
 function sum(m, n) {
-  // ваш код...
+var summary = m + n
 }
+sum (1, 1) ===2
